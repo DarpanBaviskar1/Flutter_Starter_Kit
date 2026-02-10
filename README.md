@@ -2,10 +2,6 @@
 
 > **A comprehensive AI-powered knowledge base and development framework for building Liquid Galaxy applications.**
 
-[![Documentation](https://img.shields.io/badge/Docs-Complete-green.svg)](./)
-[![AI-Assisted](https://img.shields.io/badge/AI--Ready-100%25-brightgreen.svg)](./)
-[![Templates](https://img.shields.io/badge/Templates-11-blue.svg)](5-templates/)
-[![Workflows](https://img.shields.io/badge/Workflows-3-orange.svg)](7-workflows/)
 
 ---
 
